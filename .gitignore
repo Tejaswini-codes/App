@@ -4,9 +4,22 @@
 
 # Local Packages
 node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 
 # Sphinx documentation
 docs/_build/
+
+# macOS
+.DS_Store
 
 # Environments
 .env
