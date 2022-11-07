@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text> My app is awesome!</Text>
+      <Text> lOKESH'S app</Text>
       <StatusBar style="auto" />
     </View>
   );
