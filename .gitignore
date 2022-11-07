@@ -1,8 +1,3 @@
-# Editor config
-.idea
-.vscode
-
-# Local Packages
 node_modules/
 .expo/
 dist/
@@ -15,12 +10,5 @@ npm-debug.*
 *.orig.*
 web-build/
 
-# Sphinx documentation
-docs/_build/
-
 # macOS
 .DS_Store
-
-# Environments
-.env
-env/
